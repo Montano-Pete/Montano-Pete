@@ -6,7 +6,8 @@ Hello
 
 <p align="center">
   "Anything that’s human is mentionable, and anything that is mentionable can be more manageable".
-  -Fred Rogers
+  <br />
+  - Fred Rogers
 </p>
 <p align="center">
   - Fred Rogers
