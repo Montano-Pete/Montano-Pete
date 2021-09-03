@@ -1,4 +1,4 @@
-# ✨Welcome✨
+# <p align="center"> ✨Welcome✨ </p>
 
 💬 &nbsp;Talk to me about movies, music, or code! <br />
 <br />
