@@ -1,5 +1,7 @@
-## <p align="center"> ✨Welcome✨ </p>
+# <p align="center"> ✨Welcome✨ </p>
 
+💬 &nbsp;Talk to me about movies, music, or code! <br>
+🧠 &nbsp;Passionate about Mental Health <br>
 💬 &nbsp;Talk to me about movies, music, or code! <br>
 <br>
 • Languages: JavaScript, HTML, CSS
