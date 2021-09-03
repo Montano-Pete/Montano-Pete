@@ -14,7 +14,7 @@ Talk to me about movies, music, code - or how about everything?! <br>
 <br>
 <br>
 <p align="center">
- "Anything that’s human is mentionable, and anything that is mentionable can be more manageable. When we can talk about our feelings, they become less overwhelming, less upsetting, and less scary."
+ "Anything that’s human is mentionable, and anything that is mentionable can be more manageable."
   <br>
   - Fred Rogers
 </p>
