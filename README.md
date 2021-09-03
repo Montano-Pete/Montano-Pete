@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome :)
 
-⚛️
-💬 &nbsp;Talk to me about movies, music, or code!
+💬 &nbsp;Talk to me about movies, music, or code! <br />
+Hello
